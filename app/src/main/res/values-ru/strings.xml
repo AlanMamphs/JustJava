@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Просто Жава</string>
+    <string name="choco">Шоколад</string>
+    <string name="choco_java">Добавить шоколад?</string>
+    <string name="name_hint">Имя</string>
+    <string name="order">Заказать</string>
+    <string name="order_summary_name">Имя: </string>
+    <string name="ordersummary">Описание Заказа</string>
+    <string name="quantity">количество</string>
+    <string name="quantity_java">Количество: </string>
+    <string name="thank_java">Спасибо!</string>
+    <string name="toppings">добавки</string>
+    <string name="total_java">Общий счёт: $</string>
+    <string name="whipped">Взбитые сливки</string>
+    <string name="whipped_java">Добавить взбитые сливки?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+</resources>
